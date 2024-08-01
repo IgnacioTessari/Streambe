@@ -1,0 +1,14 @@
+/* tampoco pude poner el fondo con el link :c */
+body{
+    background: url(cocina.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    cursor: none;
+
+}
+
+.posicion{
+    position: fixed;
+    transition: 2s;
+}
